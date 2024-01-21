@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+body{
+    background: #F3F6FA;
+    height: 100vh;
+    overflow: hidden;
+    
+}
+
+.heading{
+    background-color: #ffff;
+    text-align: center;
+    padding: 2vh 4vh;
+    margin-top: 5vh;
+    margin-bottom: 20vh;
+    border-radius: 0.8rem;
+    border-right: 0.4rem solid #C2CDDC;
+    border-bottom: 0.3rem solid #C2CDDC;
+    display: flex;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    color: #c2c2dc;
+    
+}
+
+/* HEADING STYLE ENDS   */
+
+.main-container{
+    background-color: #ffff;
+    text-align: center;
+    padding: 25vh 10vh;
+    border-radius: 0.8rem;
+    border-right: 0.4rem solid #C2CDDC;
+    border-bottom: 0.3rem solid #C2CDDC;
+    display: flex;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+/* MAIN DIV STYLE ENDS  */
+
+.main-container button{
+    padding: 10px;
+    border: none;
+    background: #5596F6;
+    color: #ffff;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+
+
+
+.main-container .mid-div form{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+label{
+    color: #666666;
+    flex-direction: row;
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+input,select{
+    height: 30px;
+    border-color: #cccccc;
+    border-radius: 8px;
+    align-items: center;
+    text-align: center;
+}
+
+.rslt{
+    background-color:#5596F6;
+    border: 1px solid #5596F6;
+    border-radius: 3rem;
+    border-right: 4px solid #12ebc7;
+    border-bottom: 3px solid #C2CDDC;
+    color: white;
+    font-weight: 400;
+    padding: 0 10px;
+    border-radius: 5px;
+    height: 40px;
+   
+}
+
+/* ANSWER SECTION ENDS  */
+
