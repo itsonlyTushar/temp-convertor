@@ -6,3 +6,6 @@ Input Handling: Users can input temperature values easily using the provided inp
 Unit Selection: Choose between Celsius and Fahrenheit with a dropdown menu.
 Real-time Conversion: Click the "Convert" button, and the result is instantly displayed.
 Conversion Message: Receive a friendly message along with the converted temperature for a more informative experience.
+
+
+![Temp-Convertor Preview](https://github.com/itsonlyTushar/temp-convertor/assets/123139719/4c8be4b9-7f43-4c50-9cdd-00b62d4ac198)
